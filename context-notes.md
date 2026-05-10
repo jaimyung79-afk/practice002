@@ -7,3 +7,7 @@
 - `git init` 완료 후 기본 브랜치는 `master`로 생성되었다.
 - 첫 커밋 `6a48e0d`는 작업 추적 문서인 `checklist.md`, `context-notes.md`를 포함한다.
 - GitHub 리포지토리 생성은 저장된 GitHub 인증 조회가 시간 초과되어 아직 완료하지 못했다.
+- GitHub CLI 포터블 실행 파일은 `C:\Users\Public\Documents\ESTsoft\CreatorTemp\gh-portable\bin\gh.exe`를 사용했다.
+- GitHub 계정 `jaimyung79-afk`로 인증을 완료했다.
+- GitHub Public 리포지토리 `jaimyung79-afk/practice002`를 생성하고 `origin`에 연결했다.
+- `master` 브랜치를 `origin/master`로 push하고 upstream을 설정했다.
